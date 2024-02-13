@@ -2,7 +2,7 @@ version: '3'
 
 services:
   app:
-    image: app:1.0
+    image: unaicanet/app:1.0
     expose:
       - "80"
     environment:
